@@ -1,2 +1,4 @@
-add_lunch_combo omni_rosy-userdebug
-add_lunch_combo omni_rosy-eng
+
+add_lunch_combo rosy-userdebug
+add_lunch_combo rosy-eng
+
